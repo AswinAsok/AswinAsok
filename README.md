@@ -66,10 +66,10 @@ const Malayali = {
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aswinasok)
 
-## 💻 My Latest Projects
+## 💻 My Exquisite Projects
 <div align = "center">
 <a href = "https://github.com/aswinasok/InstaFetcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=InstaFetcher"></a>
-<a href = "https://github.com/AswinAsok/Shopping-Cart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=Shopping-Cart"></a>
+<a href = "https://github.com/AswinAsok/Shopping-Cart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=Expanding-Cards"></a>
 <div>
  <hr>
  
