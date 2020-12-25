@@ -22,7 +22,7 @@ const Malayali = {
                       Member : "TinkerHub",
                    },
  askMeAbout: "Java, Python, HTML and JavaScript",
- challenge: "I am currently learning the MERN Stack",
+ challenge: "I am currently learning touch typing",
  funFact: "I don't eat most of the Vegetables",
 
 }
