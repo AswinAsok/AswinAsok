@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin </h1>
 <h3 align="center">A Tech Enthusiast From Kerala</h3>
 
-
-<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" >
-
-
+<div align = "center">
 ```javascript
 const Malayali = {
   name: "Aswin Asok",
@@ -27,8 +24,8 @@ const Malayali = {
 
 }
 ```
-<br />
-<br />
+<div>
+
 
 
 
@@ -41,7 +38,7 @@ const Malayali = {
   <br />
  <a href="https://gdpd.xyz/aswinasok" target="blank">Message Me Anonymously</a>
 </p>
-
+<br>
 ## ⚡ My Technologies
 <div align = "center" float: right;>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
