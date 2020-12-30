@@ -60,7 +60,8 @@ const Malayali = {
 </div>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AswinAsok&count_private=true&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=aswinasok&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=false)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinasok&hide=TeX&layout=compact)
 
 
