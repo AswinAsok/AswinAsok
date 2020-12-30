@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin </h1>
 <h3 align="center">A Tech Enthusiast From Kerala</h3>
 
-<div align = "center">
+
 ```javascript
 const Malayali = {
   name: "Aswin Asok",
@@ -24,7 +24,6 @@ const Malayali = {
 
 }
 ```
-<div>
 
 
 
