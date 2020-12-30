@@ -9,10 +9,8 @@ const Malayali = {
   nameICallMyself: "The Hilarious Coder",
   mail: "aswinasokofficial@gmail.com",
   pronouns: "he" | "him",
-  code: [Java, Python, HTML, CSS, C, Python, JavaScript,
-         NodeJs, MongoDB],
-  weapons: [VScode, PyCharm, Eclipse, BlueJ, NetBeans,
-            Postman, Robo 3T],
+  code: [Java, Python, HTML, CSS, C, Python, JavaScript, NodeJs, MongoDB],
+  weapons: [VScode, PyCharm, Eclipse, BlueJ, NetBeans,Postman, Robo 3T],
   techCommunities: {
                       Exclusive_Member : "Crossroads",
                       Member : "Kuttycoders",
