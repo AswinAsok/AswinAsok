@@ -59,18 +59,17 @@ const Malayali = {
 <img src="https://img.shields.io/badge/mongodb-%23000000.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
 </div>
 
-
+<div align = "center">
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=aswinasok&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinasok&hide=TeX&layout=compact)
+<div>
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aswinasok)
 
 ## 💻 My Exquisite Projects
 <div align = "center">
-<a href = "https://github.com/aswinasok/InstaFetcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=InstaFetcher"></a>
-<a href = "https://github.com/AswinAsok/Shopping-Cart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=Expanding-Cards"></a>
+<a href = "https://github.com/aswinasok/InstaFetcher"><img src="https://github-readme-stats.vercel.app/api/pin?username=aswinasok&repo=InstaFetcher&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
+<a href = "https://github.com/AswinAsok/Shopping-Cart"><img src="https://github-readme-stats.vercel.app/api/pin?username=aswinasok&repo=Expanding-Cards&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
 <div>
  <hr>
  
