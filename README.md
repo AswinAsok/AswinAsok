@@ -52,6 +52,7 @@ const Malayali = {
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-%23000000.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
+<img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=Django"/>
 </div>
 
 <div align = "center">
