@@ -66,7 +66,7 @@ const Malayali = {
 ## 💻 My Exquisite Projects
 <div align = "center">
 <a href = "https://github.com/aswinasok/InstaFetcher"><img src="https://github-readme-stats.vercel.app/api/pin?username=aswinasok&repo=InstaFetcher&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
-<a href = "https://github.com/AswinAsok/Teckieium"><img src="https://github-readme-stats.vercel.app/api/pin?username=aswinasok&repo=Teckieium&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
+<a href = "https://github.com/AswinAsok/Profile-Retriever"><img src="https://github-readme-stats.vercel.app/api/pin?username=aswinasok&repo=Profile-Retriever&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
 <div>
  <hr>
 
