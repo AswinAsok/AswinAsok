@@ -65,10 +65,10 @@ const Malayali = {
 
 ## 💻 My Exquisite Projects
 <div align = "center">
-<a href = "https://github.com/AswinAsok/ToDo-App"><img src="https://github-readme-stats.vercel.app/api/pin?username=aswinasok&repo=ToDo-App&title_color=fff&icon_color=303036&text_color=ffff&bg_color=30BCED"></a>
-<a href = "https://github.com/aswinasok/Cov-Watcher"><img src="https://github-readme-stats.vercel.app/api/pin?username=aswinasok&repo=Cov-Watcher&title_color=fff&icon_color=303036&text_color=ffff&bg_color=30BCED"></a>
-<a href = "https://github.com/AswinAsok/Weather-app"><img src="https://github-readme-stats.vercel.app/api/pin?username=aswinasok&repo=Weather-app&title_color=fff&icon_color=303036&text_color=ffff&bg_color=30BCED"></a>
-<a href = "https://github.com/aswinasok/Profile-Retriever"><img src="https://github-readme-stats.vercel.app/api/pin?username=aswinasok&repo=Profile-Retriever&title_color=fff&icon_color=303036&text_color=ffff&bg_color=30BCED"></a>
+<a href = "https://github.com/AswinAsok/ToDo-App"><img src="https://github-readme-stats.vercel.app/api/pin?username=aswinasok&repo=ToDo-App&title_color=fff&icon_color=303036&text_color=ffff&bg_color=30BCED&hide_border=true"></a>
+<a href = "https://github.com/aswinasok/Cov-Watcher"><img src="https://github-readme-stats.vercel.app/api/pin?username=aswinasok&repo=Cov-Watcher&title_color=fff&icon_color=303036&text_color=ffff&bg_color=30BCED&hide_border=true"></a>
+<a href = "https://github.com/AswinAsok/Weather-app"><img src="https://github-readme-stats.vercel.app/api/pin?username=aswinasok&repo=Weather-app&title_color=fff&icon_color=303036&text_color=ffff&bg_color=30BCED&hide_border=true"></a>
+<a href = "https://github.com/aswinasok/Profile-Retriever"><img src="https://github-readme-stats.vercel.app/api/pin?username=aswinasok&repo=Profile-Retriever&title_color=fff&icon_color=303036&text_color=ffff&bg_color=30BCED&hide_border=true"></a>
 <div>
  <hr>
 
