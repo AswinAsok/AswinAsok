@@ -56,7 +56,7 @@ const Malayali = {
 </div>
 
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api/?username=aswinasok&show_icons=true&title_color=fff&icon_color=303036&text_color=fff&bg_color=30BCED&count_private=true&hide_border=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=AswinAsok&theme=github"/>
 
 <div>
 <br>
