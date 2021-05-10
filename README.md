@@ -54,7 +54,7 @@ const Malayali = {
 <img src="https://img.shields.io/badge/mongodb-%23000000.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
 <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=Django"/>
 </div>
-
+<br>
 <div align = "center">
 <img src="https://activity-graph.herokuapp.com/graph?username=AswinAsok&theme=github"/>
 
