@@ -53,12 +53,8 @@ const Malayali = {
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-%23000000.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
 <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=Django"/>
+<img src="https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react"/>
 </div>
-<br>
-<div align = "center">
-<img src="https://activity-graph.herokuapp.com/graph?username=AswinAsok&theme=github"/>
-
-<div>
 <br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aswinasok)
