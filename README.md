@@ -58,6 +58,6 @@ const Malayali = {
 <br>
 
 <div align = "center">
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aswinasok)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=aswinasok"/>
 </div>
 
