@@ -17,7 +17,7 @@ const Malayali = {
                       Member : "TinkerHub",
                    },
  askMeAbout: "Java, Python, HTML and JavaScript",
- present_situation: "I am Preparing for exams",
+ present_situation: "I am REACT-ing",
  funFact: "I don't eat most of the Vegetables",
 
 }
