@@ -12,9 +12,8 @@ const Malayali = {
   code: [Java, Python, HTML, CSS, C, Python, JavaScript, NodeJs, MongoDB, Django],
   weapons: [VScode, PyCharm, Eclipse, BlueJ, NetBeans,Postman, Robo 3T, Figma],
   techCommunities: {
-                      Exclusive_Member : "Crossroads",
-                      Member : "Kuttycoders",
                       Member : "TinkerHub",
+                      Member : "Kuttycoders",
                    },
  askMeAbout: "Java, Python, HTML and JavaScript",
  present_situation: "I am REACT-ing",
