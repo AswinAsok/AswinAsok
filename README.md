@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aswin Asok</h1>
 <h3 align="center">I am a FrontEnd Developer From Kerala</h3>
-<p align="center">I am currenly working on my developing my frontend skills on <b>React.js</b> and other frontend libraies, Otherthan that I like <b>Typing, Problem solving, Critical Thinking, Logic Development</b>. My currently objective is to <b>become a full stack developer</b> and <b>improve my exposure</b> in the tech community by taking part in various community event and initiatives.<p>
+<p align="center">I am currenly working on my developing my frontend skills on <b>React.js</b> and other frontend libraries, Otherthan that I like <b>Typing, Problem solving, Critical Thinking, Logic Development</b>. My currently objective is to <b>become a full stack developer</b> and <b>improve my exposure</b> in the tech community by taking part in various community event and initiatives.<p>
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aswinasok"/></p>
