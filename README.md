@@ -44,6 +44,6 @@
 </p>
 
 <h2 align="left">🚀 My Github Stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinasok&show_icons=true&locale=en" alt="aswinasok" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinasok&border_color=404040&bg_color=404040&text_color=ffff&title_color=3EDCFF" alt="aswinasok" /></p>
 
 
