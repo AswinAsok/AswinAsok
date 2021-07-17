@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on **UI/UX**
 - 🌱 I’m currently learning **React.js**
 - 👯 I’m looking to collaborate on **React.js, Python, Java**
+- 🚀 My primary coding language is **Java**
 - 👨‍💻 All of my projects are available at [bio.fm/aswinasok](bio.fm/aswinasok)
 - 💬 Ask me about **Java, FrontEnd Technologies**
 - 📫 How to reach me **aswinasokofficial@gmail.com**
