@@ -1,59 +1,31 @@
-<h1 align="center">Hi 👋, I'm Aswin </h1>
-<h3 align="center">A Tech Enthusiast From Kerala</h3>
+<h1 align="center">Hi 👋, I'm Aswin Aosok</h1>
+<h3 align="center">I am a FrontEnd Developer From Kerala</h3>
 
+<p align="left">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=aswinasok"/></p>
 
-```javascript
-const Malayali = {
-  name: "Aswin Asok",
-  phase: "Learning Phase",
-  nameICallMyself: "The Hilarious Coder",
-  mail: "aswinasokofficial@gmail.com",
-  pronouns: "he" | "him",
-  code: [Java, Python, HTML, CSS, C, Python, JavaScript,React.js],
-  weapons: [VScode, PyCharm, Eclipse, BlueJ, NetBeans,Postman, Robo 3T, Figma],
-  techCommunities: {
-                      Member : "TinkerHub",
-                      Member : "Kuttycoders",
-                   },
- askMeAbout: "Java, Python, HTML and JavaScript",
- present_situation: "I am REACT-ing",
- funFact: "I don't eat most of the Vegetables",
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswinasok" alt="aswinasok" /></a> </p>
 
-}
-```
+<p align="left"> <a href="https://twitter.com/_aswin_asok_" target="blank"><img src="https://img.shields.io/twitter/follow/_aswin_asok_?logo=twitter&style=for-the-badge" alt="_aswin_asok_" /></a> </p>
 
+- 🔭 I’m currently working on **UI/UX**
+- 🌱 I’m currently learning **React.js**
+- 👯 I’m looking to collaborate on **React.js, Python, Java**
+- 👨‍💻 All of my projects are available at [bio.fm/aswinasok](bio.fm/aswinasok)
+- 💬 Ask me about **Java, FrontEnd Technologies**
+- 📫 How to reach me **aswinasokofficial@gmail.com**
+- ⚡ Fun fact **I don't eat vegetables**
 
-
-
-
-<p align="center">
-<a href="https://linkedin.com/in/aswin-asok-b330541b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aswin-asok-b330541b0" height="20" width="20" /></a>
-<a href="https://fb.com/aswinasokofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aswinasokofficial" height="20" width="20" /></a>
-<a href="https://instagram.com/_aswin_asok_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_aswin_asok_" height="20" width="20" /></a>
- <a href="https://t.me/The_Hilarious_Coder" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/The_Hilarious_Coder" height="20" width="20" /></a>
-  <br />
- <a href="https://gdpd.xyz/aswinasok" target="blank">Message Me Anonymously</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+- [LinkedIn](https://www.linkedin.com/in/-aswinasok)
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-## ⚡ My Technologies
-<div align = "center" float: right;>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react"/>
-</div>
-<br>
 
-<div align = "center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=aswinasok"/>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinasok&show_icons=true&locale=en" alt="aswinasok" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinasok&" alt="aswinasok" /></p>
 
