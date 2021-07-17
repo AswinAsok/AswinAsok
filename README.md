@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aswin Asok</h1>
 <h3 align="center">I am a FrontEnd Developer From Kerala</h3>
-<p align="center">I am currenly working on my developing my frontend skills on <b>React.js</b> and other frontend libraries, Otherthan that I like <b>Typing, Problem solving, Critical Thinking, Logic Development</b>. My currently objective is to <b>become a full stack developer</b> and <b>improve my exposure</b> in the tech community by taking part in various community event and initiatives.<p>
+<p align="center">I am currenly working on my developing my frontend skills on <b>React.js</b> and other frontend libraries, Other than that I like <b>Typing, Problem solving, Critical Thinking and Logic Development</b>. My currently objective is to <b>become a full stack developer</b> and to <b>improve my exposure</b> in the tech communities by taking part in various community events and initiatives.<p>
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aswinasok"/></p>
@@ -24,7 +24,7 @@
 - [Youtube](https://www.youtube.com/user/https:www.youtube.comchannelUC8m1SBHp0AjxjwMaop14Wdg)
 
 
-<h2 align="left">👨‍💻 My Tech Stack</h2>
+<h2 align="left">👨‍💻 My Tech Stack:</h2>
 <p align="left"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>  
 </p>
 
-<h2 align="left">🚀 My Github Stats</h2>
+<h2 align="left">🚀 My Github Stats:</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinasok&border_color=404040&bg_color=404040&text_color=ffff&title_color=3EDCFF" alt="aswinasok" /></p>
 
 
