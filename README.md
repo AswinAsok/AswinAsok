@@ -6,7 +6,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aswinasok"/></p>
 
 - 🔭 I’m currently working on **UI/UX**
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **React.js, Python, Java**
 - 🚀 My primary coding language is **Java**
 - 👨‍💻 All of my projects are available at [bio.fm/aswinasok](bio.fm/aswinasok)
