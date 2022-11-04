@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aswinasok"/></p>
 
-- 🔭 I’m currently working on **UI Design**
+- 🔭 I’m currently working on **Web Designing**
 - 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **React.js, Python, Java**
 - 🚀 My primary coding language is **Java**
