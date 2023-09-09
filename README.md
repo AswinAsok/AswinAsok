@@ -1,6 +1,6 @@
 <p align="center">
 <img alt="Hey there, I'm Aswin" src="giphy.webp"></p>
-<p align="center">I am currenly working on my developing my frontend skills on <b>React.js</b> and other frontend libraries, Other than that I like <b>Typing, Problem solving, Critical Thinking and Logic Development</b>. My currently objective is to <b>become a full stack developer</b> and to <b>improve my exposure</b> in the tech communities by taking part in various community events and initiatives.<p>
+<p align="center">I am currently working on my developing my frontend skills on <b>React.js</b> and other frontend libraries, Other than that I like <b>Typing, Problem-solving, Critical Thinking, and Logic Development</b>. My current objective is to <b>become a full stack developer</b> and to <b>improve my exposure</b> in the tech communities by taking part in various community events and initiatives.<p>
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aswinasok"/></p>
@@ -53,6 +53,6 @@
 
 <h3 align="left">Support Me</h3>
 <p><a href="https://www.buymeacoffee.com/aswinasok"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/aswinasok" /></a></p><br><br>
-<img src="https://app.mulearn.org/embed/rank/aswinasok@mulearn" width="100px" height="100px"></img>
+<img src="https://mulearn.org/embed/rank/aswinasok@mulearn" width="100px" height="100px"></img>
 
 
