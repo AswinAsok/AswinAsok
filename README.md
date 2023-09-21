@@ -22,7 +22,7 @@
 - [10fastfingers](https://10fastfingers.com/user/2183335/)
 - [Instagram](https://www.instagram.com/_aswin_asok_)
 - [Facebook](https://www.facebook.com/aswinasokofficial)
-- [Youtube](https://www.youtube.com/user/https:www.youtube.comchannelUC8m1SBHp0AjxjwMaop14Wdg)
+- [Youtube](https://www.youtube.com/channel/UC8m1SBHp0AjxjwMaop14Wdg)
 
 
 <h2 align="left">👨‍💻 My Skills:</h2>
