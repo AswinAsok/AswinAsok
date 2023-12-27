@@ -5,6 +5,9 @@
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aswinasok"/></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 - 🔭 I’m currently working on **Web Designing**
 - 🌱 I’m currently learning *React.js**
 - 👯 I’m looking to collaborate on **React.js, Python, Java**
@@ -50,7 +53,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinasok&show_icons=true&locale=en" alt="aswinasok" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinasok&" alt="aswinasok" /></p>
-<img src="https://mulearn.org/embed/rank/aswinasok@mulearn" height="400px"></img>
+<!-- <img src="https://mulearn.org/embed/rank/aswinasok@mulearn" height="400px"></img> -->
 <h3 align="left">Support Me</h3>
 <p><a href="https://www.buymeacoffee.com/aswinasok"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/aswinasok" /></a></p><br><br>
 
