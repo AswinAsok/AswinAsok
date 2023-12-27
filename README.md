@@ -17,15 +17,6 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-- 🔭 I’m currently working on **Web Designing**
-- 🌱 I’m currently learning *React.js**
-- 👯 I’m looking to collaborate on **React.js, Python, Java**
-- 🚀 My primary coding language is **Java**
-- 👨‍💻 All of my projects are available at [bio.fm/aswinasok](bio.fm/aswinasok)
-- 💬 Ask me about **Java, FrontEnd Technologies**
-- 📫 How to reach me **aswinasokofficial@gmail.com**
-- ⚡ Fun fact **I don't eat vegetables**
-
 <h2 align="left">🌏 Connect with me:</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/-aswinasok)
