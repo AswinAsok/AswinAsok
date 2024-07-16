@@ -1,6 +1,8 @@
-<p>A Front-End Developer with over 4 years of industry experience, I have actively contributed to developing and managing the MuLearn Web Platform, attracting over 15,000 monthly visits and 10,000+ users and a cumulative of 1,00,000 visits. I also played a key role created a networking application called the Maze, which was successfully deployed and used by 1,000+ participants at major events such as the IEDC Summit 2023 and Top 100 Coders 2023.
+#### developing the hoomans project | code(b.130wpm). content. comparisons. creativity.
 
-With experience designing and developing dynamic websites, integrating APIs, and mentoring over 125 students globally on front-end technologies, I specialize in React.js +TS. I am building [MakeMyPass](https://makemypass.com/)  and working as a Vue.js Web Developer Intern at Hoppscotch.<p>
+<p>Hey, I'm a Front-End Developer with over 3 years of development experience, I have actively contributed to developing and managing the µLearn Web Platform and App, attracting over ~15,000 monthly visits and 10,000+ users and a cumulative of 1,00,000+ visits. I have also played a key role in the overnight development of a networking application called the Maze It was successfully deployed and used by 1,000+ participants at major events such as the IEDC Summit 2023 and Top 100 Coders 2023 the very next day of its development.
+
+With experience designing and developing dynamic websites, integrating APIs, and mentoring over 150 students globally on front-end technologies, I specialize in React.js + TS. I am currently building [MakeMyPass](https://makemypass.com/) and working as a Vue.js Web Developer Intern at Hoppscotch.<p>
 <p>
   
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aswinasok"/></p>
