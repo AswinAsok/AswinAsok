@@ -19,13 +19,6 @@ Vue.js       1 hr 15 mins    █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<h2 align="left">Connect with me:</h2>
-
 • [LinkedIn](https://www.linkedin.com/in/-aswinasok) • [Twitter](https://www.twitter.com/_aswin_asok_) • [10fastfingers](https://10fastfingers.com/user/2183335/) • [Instagram](https://www.instagram.com/_aswin_asok_)
-
-<!-- <img src="https://mulearn.org/embed/rank/aswinasok@mulearn" height="400px"></img> -->
-<h3 align="left">Support Me</h3>
+<br/>
 <p><a href="https://www.buymeacoffee.com/aswinasok"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/aswinasok" /></a></p><br><br>
-
-
-
