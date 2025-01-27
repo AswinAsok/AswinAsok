@@ -10,11 +10,11 @@ With experience designing and developing dynamic websites, integrating APIs, and
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   26 hrs 32 mins  ███████████████████░░░░░░   76.02 %
-Dart         3 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-Other        2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-CSS          2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-HTML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+TypeScript   28 hrs 23 mins  ███████████████████▓░░░░░   78.54 %
+Dart         3 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+Other        2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+CSS          1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+JavaScript   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
