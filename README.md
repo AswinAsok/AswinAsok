@@ -1,4 +1,4 @@
-#### developing the hoomans project | code(b.130wpm). content. comparisons. creativity.
+#### developing the hoomans project | code(b.132wpm). content. comparisons. creativity.
 
 <p>Hey, I'm a Front-End Developer with over 3 years of development experience, I have actively contributed to developing and managing the µLearn Web Platform and App, attracting over ~15,000 monthly visits and 10,000+ users and a cumulative of 1,00,000+ visits. I have also played a key role in the overnight development of a networking application called the Maze It was successfully deployed and used by 1,000+ participants at major events such as the IEDC Summit 2023 and Top 100 Coders 2023 the very next day of its development.
 
