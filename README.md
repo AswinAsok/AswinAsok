@@ -1,8 +1,20 @@
 #### developing the hoomans project | code(b.132wpm). content. comparisons. creativity.
 
-<p>Hey, I'm a Front-End Developer with over 3 years of development experience, I have actively contributed to developing and managing the µLearn Web Platform and App, attracting over ~15,000 monthly visits and 10,000+ users and a cumulative of 1,00,000+ visits. I have also played a key role in the overnight development of a networking application called the Maze It was successfully deployed and used by 1,000+ participants at major events such as the IEDC Summit 2023 and Top 100 Coders 2023 the very next day of its development.
+<p>i was a nobody until the covid-19 and like most of the devs from this covid-19 wave, i too started learning something to transition from that nobody to somebody/someone because i had some spare time after all that online classes.
 
-With experience designing and developing dynamic websites, integrating APIs, and mentoring over 150 students globally on front-end technologies, I specialize in React.js + TS. I am currently building [MakeMyPass](https://makemypass.com/) and previously(May-July 24) working as a Vue.js Web Developer Intern at Hoppscotch.<p>
+so fast-forward ⏩ to 2025
+i am currently a frontend developer who 
+- is still learning basics of javascript
+- primarily uses CSS for styling
+- ship a couple of apps every now and then 
+- use react.js as the primary framework
+
+impact:
+- Sep,2022 developed the first website aka current one for MuLearn Foundation ~1,00,000+ visits
+- 2023 developed the web app for MuLearn Foundation, used by over 30000+ students
+- 2024 - present co-founded the event management and ticketing platform makemypass.com along with few sub-products such as hoogo, premote, quizit, jusvote, leadx 
+
+along besides all these i have done few internships also, like at techfunic(java), hoppscotch(vuejs), mulearn(react.js), campuzon(uiux).<p>
 <p>
   
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aswinasok"/></p>
