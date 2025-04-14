@@ -1,10 +1,10 @@
 #### developing the hoomans project | code(b.132wpm). content. comparisons. creativity.
 
-<p>i was a nobody until the covid-19 and like most of the devs from this covid-19 wave, i too started learning something to transition from that nobody to somebody/someone because i had some spare time after all that online classes.
+<p>i was a nobody until the covid-19 and like most of the devs from this COVID-19 wave, i too started learning something to transition from that nobody to somebody/someone because i had some spare time after all that online classes.
 
 so fast-forward ⏩ to 2025
 i am currently a frontend developer who 
-- is still learning basics of javascript
+- is still learning the basics of javascript
 - primarily uses CSS for styling
 - ship a couple of apps every now and then 
 - use react.js as the primary framework
@@ -12,9 +12,9 @@ i am currently a frontend developer who
 impact:
 - Sep,2022 developed the first website aka current one for MuLearn Foundation ~1,00,000+ visits
 - 2023 developed the web app for MuLearn Foundation, used by over 30000+ students
-- 2024 - present co-founded the event management and ticketing platform makemypass.com along with few sub-products such as hoogo, premote, quizit, jusvote, leadx 
+- 2024 - present co-founded the event management and ticketing platform makemypass.com along with few sub-products such as hoogo, promote, quizit, jusvote, and leadx 
 
-along besides all these i have done few internships also, like at techfunic(java), hoppscotch(vuejs), mulearn(react.js), campuzon(uiux).<p>
+Besides all these, i have donea  few internships also, like at techfunic(java - mentoring), hoppscotch(vuejs), mulearn(react.js), campuzon(uiux).<p>
 <p>
   
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aswinasok"/></p>
