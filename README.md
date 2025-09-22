@@ -22,11 +22,11 @@ Besides all these, i have donea  few internships also, like at techfunic(java - 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 45 mins   █████████████████████▓░░░   86.34 %
-CSS          53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Other        23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript   3 hrs 54 mins   ██████████████░░░░░░░░░░░   56.16 %
+YAML         2 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   30.92 %
+Other        34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+CSS          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
