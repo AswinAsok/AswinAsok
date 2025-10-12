@@ -1,4 +1,4 @@
-#### developing the hoomans project | code(b.139wpm). content. comparisons. creativity.
+#### code(b.139wpm). content. comparisons. creativity.
 
 <p>i was a nobody until the covid-19 and like most of the devs from this COVID-19 wave, i too started learning something to transition from that nobody to somebody/someone because i had some spare time after all that online classes.
 
