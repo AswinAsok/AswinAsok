@@ -10,7 +10,7 @@ i am currently a frontend developer who
 - use react.js as the primary framework
 
 impact:
-- Sep,2022 developed the first website aka current one for MuLearn Foundation ~1,00,000+ visits
+- Sep,2022 developed the first website aka olf one for MuLearn Foundation ~1,00,000+ visits
 - 2023 developed the web app for MuLearn Foundation, used by over 30000+ students
 - 2024 - present co-founded the event management and ticketing platform makemypass.com along with few sub-products such as hoogo, promote, quizit, jusvote, and leadx
 - 2025 Nov - present building [ente.io](https://ente.io)
