@@ -23,8 +23,7 @@ Besides all these, i have donea  few internships also, like at techfunic(java - 
 <!--START_SECTION:waka-->
 
 ```txt
-Other   14 mins               █████████████▒░░░░░░░░░░░   53.70 %
-JSON    12 mins               ███████████▓░░░░░░░░░░░░░   46.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
